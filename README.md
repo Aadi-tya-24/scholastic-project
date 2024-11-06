@@ -1,2 +1,2 @@
 # scholastic-project
-web design 
+ This is  a web design project . 
